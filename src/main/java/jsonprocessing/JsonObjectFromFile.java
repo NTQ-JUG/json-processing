@@ -1,4 +1,4 @@
-package minialjson;
+package jsonprocessing;
 
 import com.eclipsesource.json.Json;
 import com.eclipsesource.json.JsonArray;
